@@ -1,0 +1,1 @@
+This program reads in a data file and stores the numbers in the data file into a matrix. The program then applies an equation to the matrix and writes the output to a file. The program also transposes the matrix and writes the result to another file.
